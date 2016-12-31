@@ -1,0 +1,15 @@
+---
+layout: post
+title: "New Site Launch"
+date: 2016-12-16
+author: Kate
+categories:
+- blog
+img: cosmicgirl.png
+thumb: cosmicgirlthumb.png
+---
+
+### New website
+
+Welcome!
+You've reached the first blog post ever posted, well done, and thanks!

@@ -1,0 +1,100 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: SnuggleFactory
+description: "Snuggle Factory"
+analytics: #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" #important: start with /
+url: "http://yourdomain.com"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+colors:  #in hex code if not noted else
+  primary: "#F06292" #"#F70031" 
+  primary_rgb: "240,98,146" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  secondary: "#880E4F" #"#33004D"
+  link: "#E91E63"
+  link_hover: "#C2185B"
+  footer_heading: "#ffffff"
+  footer_content: "#F8BBD0"
+  
+  
+### CONTACT SETTINGS ###
+
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+  - title: heart
+    url: https://www.patreon.com/SnuggleFactory
+  - title: facebook
+    url: https://www.facebook.com/SnuggleFactory/
+  - title: youtube
+    url: https://www.youtube.com/channel/UCCu_xSNXzKwRPgNN3eTbERQ
+  - title: etsy
+    url: https://www.etsy.com/au/shop/SnuggleFactoryPlush
+  - title: tumblr
+    url: http://snugglefactoryplushies.tumblr.com/
+    
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+address:
+  - lines: 
+    - Wollongong,
+    - New South Wales,
+    - Australia.
+email: snugglefactoryplushies@gmail.com
+
+
+
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+    
+# Members information. Shown on About page.
+members:
+  - name: Mark Webber
+    position: CEO
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team01.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Paul Jameson
+    position: Lead Designer
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team02.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Laura Sommers
+    position: Lead Developer
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team03.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Martin Blunt
+    position: Marketing
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team04.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+    
+
+    
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "Snuggle Factory is my hobby, I enjoy designing and making things in my spare time, this site will be full of my tutorials, patterns and other creative things, I'd like to make a lot of things free to use, however if you're interested in supporting me financially, please check out my Patreon, there are definitely some benefits to doing so!"
+
+# Testimonial content. Shown on Home and About page. 
+testimonial:
+    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    author: Kate
+    position: Designer, Creator, Video Manager, Video Editor... It's just me, I run everything!
