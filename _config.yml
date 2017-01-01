@@ -3,7 +3,8 @@
 # Site settings
 title: SnuggleFactory
 description: "Snuggle Factory"
-analytics: #Google analytics code in the format XX-nnnnnnnn-n
+analytics: UA-89643043-1
+#Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://snugglefactory.github.io"
 
