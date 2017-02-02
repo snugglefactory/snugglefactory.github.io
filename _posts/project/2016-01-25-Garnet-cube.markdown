@@ -11,7 +11,7 @@ carousel:
 tagged: Pattern, Free
 website:
 ---
-####Garnet Cube
+#### Garnet Cube
 Garnet is one of my favourite crystal gems, I couldn't resist making a cube version of her head. There are 2 different methods to creating her face shown below, one is created using an embroidery machine, the second is created using a sewing machine.
 
 <p><a href="http://orig05.deviantart.net/b335/f/2016/023/4/b/garnet_face_by_snugglefactory-d9p3qjy.pdf" class="btn btn-theme">Template</a></p>
