@@ -15,8 +15,6 @@ tagged: Pattern, Free
 
 This plush is inspired by Pusheen, she is adorable and I just really wanted to make her.
 
+<p><a href="http://orig02.deviantart.net/1ba4/f/2017/033/e/b/pusheen_inspired_pattern_final_version_by_snugglefactory-daxlojo.pdf" class="btn btn-theme">Template</a></p>
 
-
-<p><a href="http://orig02.deviantart.net/1ba4/f/2017/033/e/b/pusheen_inspired_pattern_final_version_by_snugglefactory-daxlojo.pdf">Template</a></p>
-
-Video coming soon! Currently availabel to Patreon supporters.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rX2VlrzbgQI" frameborder="0" allowfullscreen></iframe>
